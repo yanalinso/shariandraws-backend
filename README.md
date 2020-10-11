@@ -1,2 +1,2 @@
 # shariandraws-backend
-Python Backend for shariandraws project
+Python Backend for shariandraws project using FastAPI
